@@ -32,7 +32,13 @@ vercel --prod
 
 Or connect this repo to [vercel.com](https://vercel.com) for instant deploy.
 
+## Local dev
 
+```bash
+npm install
+npm run dev
+# → http://localhost:3000
+```
 
 ## Product metrics to track (post-launch)
 | Metric | Target |
@@ -45,4 +51,4 @@ Or connect this repo to [vercel.com](https://vercel.com) for instant deploy.
 
 ---
 
-Product designed by Atul Singh as part of 30 Sundays AI PM application.
+*Product designed by [your name] as part of 30 Sundays AI PM application.*
